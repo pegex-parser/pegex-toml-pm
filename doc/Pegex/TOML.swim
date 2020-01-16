@@ -1,0 +1,18 @@
+<<<cpan-head>>>
+
+<badge travis coveralls ingydotnet/pegex-toml-pm>
+
+= Synopsis
+
+  my $data = Pegex::TOML->new->load($toml);
+
+= Description
+
+Pegex::TOML is a TOML parser written in Pegex.
+
+= See Also
+
+* [Pegex]
+* [TOML]
+
+<<<cpan-tail>>>
