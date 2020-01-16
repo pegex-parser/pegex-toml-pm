@@ -35,11 +35,10 @@ install:
 - git clone
   git://github.com/testml-lang/testml ../testml
 - cpan-install --coverage
-  boolean
+  boolean~0.46
   Pegex~0.65
   TOML~0.97
   YAML::PP~0.018
-  YAML::XS
 
 before_script:
   coverage-setup

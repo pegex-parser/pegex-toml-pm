@@ -6,7 +6,7 @@ abstract: Pegex Loader for TOML
 homepage: http://pegex.org
 language: perl
 license: perl
-copyright: 2011-2020
+copyright: 2020
 
 author:
   name: Ingy döt Net
